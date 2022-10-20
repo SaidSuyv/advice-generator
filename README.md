@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
-- Live Site URL: [Live Website](https://saidsuyv.github.com/advice-generator)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/advice-generator-NOcXgklyRD)
+- Live Site URL: [Live Website](https://saidsuyv.github.io/advice-generator)
 
 ## My process
 
